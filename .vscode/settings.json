@@ -1,0 +1,7 @@
+{
+    "python.linting.banditEnabled": false,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.pydocstyleEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
